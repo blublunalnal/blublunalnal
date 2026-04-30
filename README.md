@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ---
 
 ### 🔭 About Me
-I specialize in the intersection of AI and Clinical Health Outcomes, with 4+ years of experience in digital signal processing (DSP) and machine learning. My research focuses on developing robust, scalable architectures for physiological signals—specifically PPG, ECG, and bioimpedance—alongside medical imaging modalities like MRI and CT.
+I specialize in the intersection of AI and Clinical Health Outcomes, with 4+ years of experience in digital signal processing (DSP) and machine learning. My research focuses on developing robust, scalable architectures for physiological signals from wearables—specifically PPG, ECG, acoustics, and bioimpedance—alongside medical imaging modalities like MRI and CT.
 
 
 ### 🛠️ Technical Stack
